@@ -51,3 +51,7 @@ Clone the repository
 git clone https://github.com/KChakritha/Dev-Detective.git
 avigate into the project folder
 cd Dev-Detective
+
+# Preview
+
+<img width="1920" height="1200" alt="Screenshot 2026-04-24 210458" src="https://github.com/user-attachments/assets/1864a17b-0537-4812-93e6-22602b1ba0c1" />
