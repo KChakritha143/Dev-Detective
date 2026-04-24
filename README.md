@@ -52,6 +52,10 @@ git clone https://github.com/KChakritha/Dev-Detective.git
 avigate into the project folder
 cd Dev-Detective
 
+# Live URl
+
+https://inquisitive-bonbon-70ff34.netlify.app/
+
 # Preview
 
 <img width="1920" height="1200" alt="Screenshot 2026-04-24 210417" src="https://github.com/user-attachments/assets/d577b159-d3b5-4024-adc1-4f505e82f541" />
