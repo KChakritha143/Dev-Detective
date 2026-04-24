@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dev Detective</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<div class="container">
+    <h1><i class="fa-brands fa-github"></i> GitHub Repository</h1>
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search GitHub username...">
+        <button onclick="getUser()">Search</button>
+    </div>
+
+    <div id="loading" class="loading"></div>
+
+    <div id="profile" class="card"></div>
+    <div id="repos" class="repos"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
