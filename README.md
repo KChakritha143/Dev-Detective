@@ -1,10 +1,10 @@
-🔍 Dev-Detective — GitHub User Search App
+# Dev-Detective — GitHub User Search App
 
 A modern GitHub User Search Application that fetches real-time data from the GitHub API and displays developer profiles in a clean and interactive UI.
 
 Built as part of my internship at Prodesk IT, focusing on APIs, Async JavaScript, and Data Handling.
 
-#Features
+# Features
 
 Level 1 (Core Functionality)
 Search any GitHub user by username
@@ -24,7 +24,7 @@ Clickable repository links (open in new tab)
 Human-readable date format (e.g., 25 Jan 2023)
 Dynamic data rendering using API responses
 
-#Tech Stack
+# Tech Stack
 
 HTML5 — Structure
 CSS3 — Styling & UI
@@ -38,7 +38,7 @@ https://api.github.com/users/{username}
 Repositories API:
 https://api.github.com/users/{username}/repos
 
-#Concepts Learned
+# Concepts Learned
 Fetch API & Promises
 Async/Await
 JSON Data Handling
@@ -46,7 +46,7 @@ Error Handling (HTTP Status Codes)
 DOM Manipulation
 Dynamic UI Rendering
 
-##How to Run Locally
+# How to Run Locally
 # Clone the repository
 git clone https://github.com/KChakritha/Dev-Detective.git
 
