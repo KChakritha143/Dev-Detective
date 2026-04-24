@@ -47,8 +47,7 @@ DOM Manipulation
 Dynamic UI Rendering
 
 # How to Run Locally
-# Clone the repository
+Clone the repository
 git clone https://github.com/KChakritha/Dev-Detective.git
-
-# Navigate into the project folder
+avigate into the project folder
 cd Dev-Detective
