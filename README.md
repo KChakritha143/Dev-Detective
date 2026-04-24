@@ -7,30 +7,30 @@ Built as part of my internship at Prodesk IT, focusing on APIs, Async JavaScript
 # Features
 
 Level 1 (Core Functionality)
--Search any GitHub user by username
--Display user profile details:
--Avatar
--Name
--Bio
--Join Date
--Portfolio Link
--Loading indicator while fetching data
--Error handling for invalid usernames (User Not Found)
+- Search any GitHub user by username
+- Display user profile details:
+- Avatar
+- Name
+- Bio
+- Join Date
+- Portfolio Link
+- Loading indicator while fetching data
+- Error handling for invalid usernames (User Not Found)
 
 Level 2 (Advanced Features)
 
--Fetch and display Top 5 latest repositories
--Clickable repository links (open in new tab)
--Human-readable date format (e.g., 25 Jan 2023)
--Dynamic data rendering using API responses
+- Fetch and display Top 5 latest repositories
+- Clickable repository links (open in new tab)
+- Human-readable date format (e.g., 25 Jan 2023)
+- Dynamic data rendering using API responses
 
 # Tech Stack
 
--HTML5 — Structure
--CSS3 — Styling & UI
--JavaScript (ES6+) — Logic & API handling
--GitHub REST API — Data source
--API Used
+- HTML5 — Structure
+- CSS3 — Styling & UI
+- JavaScript (ES6+) — Logic & API handling
+- GitHub REST API — Data source
+- API Used
 
 GitHub Users API:
 https://api.github.com/users/{username}
@@ -39,12 +39,12 @@ Repositories API:
 https://api.github.com/users/{username}/repos
 
 # Concepts Learned
--Fetch API & Promises
--Async/Await
--JSON Data Handling
--Error Handling (HTTP Status Codes)
--DOM Manipulation
--Dynamic UI Rendering
+- Fetch API & Promises
+- Async/Await
+- JSON Data Handling
+- Error Handling (HTTP Status Codes)
+- DOM Manipulation
+- Dynamic UI Rendering
 
 # How to Run Locally
 Clone the repository
