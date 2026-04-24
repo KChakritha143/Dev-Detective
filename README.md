@@ -55,5 +55,7 @@ cd Dev-Detective
 # Preview
 
 <img width="1920" height="1200" alt="Screenshot 2026-04-24 210417" src="https://github.com/user-attachments/assets/d577b159-d3b5-4024-adc1-4f505e82f541" />
+
 <img width="1920" height="1200" alt="Screenshot 2026-04-24 210432" src="https://github.com/user-attachments/assets/b607606e-f3b9-4604-8972-7ff3d8390ceb" />
+
 <img width="1920" height="1200" alt="Screenshot 2026-04-24 210458" src="https://github.com/user-attachments/assets/1864a17b-0537-4812-93e6-22602b1ba0c1" />
